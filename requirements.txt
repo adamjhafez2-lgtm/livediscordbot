@@ -1,0 +1,4 @@
+discord.py==2.7.3
+aiohttp==3.8.5
+requests==2.32.0
+yt-dlp==2025.9.15
